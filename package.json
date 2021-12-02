@@ -1,0 +1,13 @@
+{
+	"name": "ppa-2021-advent-of-code",
+	"version": "0.1.0",
+	"description": "2021 Advent of Code solutions by Chunjee",
+	"main": "01.ahk",
+	"dependencies": {
+		"biga.ahk": "^0.51.0",
+		"expect.ahk": "^0.1.0"
+	},
+	"devDependencies": { },
+	"author": "Shawn Brooker",
+	"license": "MIT"
+}
